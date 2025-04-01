@@ -16,8 +16,6 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
 - [6. Distributed Systems](#6-distributed-systems)
 - [7. Languages and Compilers](#7-languages-and-compilers)
 - [8. Additional Resources](#additional-resources)
-- [9. Progress Tracker](#progress-tracker)
-
 ---
 
 ## 1. **Computer Architecture**
@@ -34,6 +32,8 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
      - 📖 [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
      - 🎞️ [Computer Science 61C archive.org](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
      - 🎞️ [Computer Science 61C youtube](https://www.youtube.com/@berkeley-cs61c/videos)
+     - 🎞️ [Digital Design and Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf)
+     - 🎞️ [Fundamentals of Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_ZMtqz1r-GHm-zzuE1QfIg)
      - 🎞️ [Computer Architecture CMU](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 ---
 
