@@ -34,7 +34,7 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
      - 📖 [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
      - 🎞️ [Computer Science 61C archive.org](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
      - 🎞️ [Computer Science 61C youtube](https://www.youtube.com/@berkeley-cs61c/videos)
----sa
+---
 
 ## 2. **Operating Systems**
    - **Overview:** Learn how operating systems manage hardware resources, processes, memory, and file systems.
@@ -97,10 +97,8 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
 
 ## Additional Resources
 - https://cs.ossu.dev/
-- 
-
-- **YouTube Channels:**
-   - [MIT OpenCourseWare](https://www.youtube.com/user/MIT) – Various CS courses
+  
+---
 
 - **Online Platforms:**
    - https://exercism.org/
