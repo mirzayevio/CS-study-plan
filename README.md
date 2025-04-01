@@ -34,6 +34,7 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
      - 🎞️ [Computer Science 61C youtube](https://www.youtube.com/@berkeley-cs61c/videos)
      - 🎞️ [Digital Design and Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf)
      - 🧪 [Digital Design and Computer Architecture lab](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=labs)
+     - 📖 [Digital Design and Computer Architecture readings](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=readings)
      - 🎞️ [Fundamentals of Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_ZMtqz1r-GHm-zzuE1QfIg)
      - 🎞️ [Computer Architecture CMU](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 ---
