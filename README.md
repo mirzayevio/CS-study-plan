@@ -34,6 +34,7 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
      - 📖 [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
      - 🎞️ [Computer Science 61C archive.org](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
      - 🎞️ [Computer Science 61C youtube](https://www.youtube.com/@berkeley-cs61c/videos)
+     - 🎞️ [Computer Architecture CMU](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 ---
 
 ## 2. **Operating Systems**
