@@ -54,6 +54,7 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
 ## 3. **Algorithms and Data Structures**
    - **Overview:** Core topics in computer science for solving problems efficiently using algorithms and data structures.
    - **Resources:**
+     - 🎞️ [MIT 6.006 Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
      - https://www.techinterviewhandbook.org/software-engineering-interview-guide/
      - https://tira.mooc.fi/spring-2025/
      - https://seanprashad.com/leetcode-patterns/
