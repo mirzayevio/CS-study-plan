@@ -1,6 +1,6 @@
 # The Barbarossa Chronicles: Conquering the World of CS, One Byte at a Time
 
-This repository contains my study plan for revisiting and deeply learning key topics in computer science. The following topics will be covered, with resources and links to help guide my learning process.
+This repository contains my study plan (_opinionated_) for revisiting and deeply learning key topics in computer science. The following topics will be covered, with resources and links to help guide my learning process.
 
 ### These resources were fundamental in designing this study plan and helped inspire the structure of the repository.
 - [https://teachyourselfcs.com/](https://teachyourselfcs.com/)
@@ -53,8 +53,10 @@ This repository contains my study plan for revisiting and deeply learning key to
 ## 3. **Algorithms and Data Structures**
    - **Overview:** Core topics in computer science for solving problems efficiently using algorithms and data structures.
    - **Resources:**
-     - 
-
+     - https://www.techinterviewhandbook.org/software-engineering-interview-guide/
+     - https://tira.mooc.fi/spring-2025/
+     - https://seanprashad.com/leetcode-patterns/
+     - https://www.leetpattern.com/
 ---
 
 ## 4. **Computer Networking**
@@ -94,13 +96,23 @@ This repository contains my study plan for revisiting and deeply learning key to
 ---
 
 ## Additional Resources
+- https://cs.ossu.dev/
+- 
 
 - **YouTube Channels:**
    - [MIT OpenCourseWare](https://www.youtube.com/user/MIT) – Various CS courses
-   - [The Net Ninja](https://www.youtube.com/c/TheNetNinja) – Coding tutorials and concepts
 
 - **Online Platforms:**
-   - [LeetCode](https://leetcode.com/) – Practice algorithms and data structures problems
-   - [Coursera](https://www.coursera.org/) – Offers a variety of CS courses from top universities
-   - [edX](https://www.edx.org/) – Online courses from universities like MIT, Harvard, etc.
+   - https://exercism.org/
+   - https://py.checkio.org/
+   - https://adventofcode.com/
+   - https://open.kattis.com/
+   - https://rosalind.info/
+   - https://www.codewars.com/
+   - https://www.codingame.com/
+   - http://www.pythonchallenge.com/
+   - https://microcorruption.com/
+   - https://protohackers.com/problems
+   - https://cryptopals.com/
+   - https://deusx64.ai/
 
