@@ -22,7 +22,7 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
    - **Overview:** Understanding the hardware, memory, CPU, and how they interact with software.
    - **Resources:**
      - [nand2tetris](https://www.nand2tetris.org/)
-       - 📖 [The Elements of Computing Systems](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686)
+       - 📖 [The Elements of Computing Systems](https://archive.org/details/TheElementsOfComputingSystems_201408/)
        - 🎞️ [Build a Modern Computer from First Principles: Nand to Tetris Part I](https://www.coursera.org/learn/build-a-computer)
        - 🎞️ [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 
@@ -30,13 +30,10 @@ This repository contains my study plan (_opinionated_) for revisiting and deeply
      - 📖 [Computer Organization and Design](https://www.amazon.com/Computer-Organization-Design-MIPS-Architecture/dp/0124077269)
      - 📖 [But How Do It Know?](https://www.amazon.com/But-How-Know-Principles-Computers/dp/0615303765)
      - 📖 [Code: The Hidden Language of Computer Hardware and Software](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
-     - 🎞️ [Computer Science 61C archive.org](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_)
-     - 🎞️ [Computer Science 61C youtube](https://www.youtube.com/@berkeley-cs61c/videos)
-     - 🎞️ [Digital Design and Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-EImKxYYY1SZuGiOAOBKaf)
+     - 🎞️ [Digital Design and Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
      - 🧪 [Digital Design and Computer Architecture lab](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=labs)
      - 📖 [Digital Design and Computer Architecture readings](https://safari.ethz.ch/digitaltechnik/spring2023/doku.php?id=readings)
      - 🎞️ [Fundamentals of Computer Architecture](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_ZMtqz1r-GHm-zzuE1QfIg)
-     - 🎞️ [Computer Architecture CMU](https://www.youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
 ---
 
 ## 2. **Operating Systems**
